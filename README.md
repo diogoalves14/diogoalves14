@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Diogo Alves
 Seja bem-vindo(a) ao meu Github 🖖🏻
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=diogoalves14&color=f8efd4&style=for-the-badge&logo=GitHub">
-
 <p>
 
 🌱 Aluno/Sócio do DevClub <br/>
@@ -17,14 +15,15 @@ Seja bem-vindo(a) ao meu Github 🖖🏻
   <img align="center" alt="Diogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-##
+<hr>
 
+<img src="https://img.shields.io/static/v1?label=Overview&message=diogoalves14&color=f8efd4&style=for-the-badge&logo=GitHub">
 <div>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoalves14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoalves14&layoult=compact&langs_count-16&theme=dracula"/>
 </div>
 
-##
+<hr>
 
 <div>
   <a href="https://www.linkedin.com/in/diogoalves14/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
